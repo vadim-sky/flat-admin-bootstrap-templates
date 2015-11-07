@@ -1,0 +1,22 @@
+{
+  "name": "Flat Admin V.2 Bootstrap Templates",
+  "version": "0.0.0",
+  "description": "Flat Admin V.2 Bootstrap Templates",
+  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "template",
+     "List vew"
+   ],
+  "dependencies": {},
+  "devDependencies": {
+    "karma-jasmine": "~0.3.6",
+    "karma-chrome-launcher": "~0.2.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
