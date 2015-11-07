@@ -1,14 +1,19 @@
 {
-  "name": "Flat Admin V.2 Bootstrap Templates",
+  "name": "admin-layout",
   "version": "0.0.0",
   "description": "Flat Admin V.2 Bootstrap Templates",
   "license": "MIT",
    "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/vadim-sky/flat-admin-bootstrap-templates"
   },
+  "authors": [
+    "forked from tui2tone/flat-admin-bootstrap-templates. http://www.tui2tone.com"
+  ],
+  "description": "Flat Admin V.2 Bootstrap Templates in bootstrap-sass is a Sass-powered version of Bootstrap.",
+
   "keywords": [
-    "template",
+    "Flat Admin V.2 Bootstrap Templates",
      "List vew"
    ],
   "dependencies": {},
