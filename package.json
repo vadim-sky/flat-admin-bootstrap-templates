@@ -1,6 +1,6 @@
 {
-  "name": "admin-layout",
-  "version": "0.0.0",
+  "name": "flat-admin-bootstrap-templates-angular",
+  "homepage": "https://github.com/vadim-sky/flat-admin-bootstrap-templates",
   "description": "Flat Admin V.2 Bootstrap Templates",
   "license": "MIT",
    "repository": {
@@ -10,11 +10,9 @@
   "authors": [
     "forked from tui2tone/flat-admin-bootstrap-templates. http://www.tui2tone.com"
   ],
-  "description": "Flat Admin V.2 Bootstrap Templates in bootstrap-sass is a Sass-powered version of Bootstrap.",
-
-  "keywords": [
+   "keywords": [
     "Flat Admin V.2 Bootstrap Templates",
-     "List vew"
+    "List vew"
    ],
   "dependencies": {},
   "devDependencies": {
